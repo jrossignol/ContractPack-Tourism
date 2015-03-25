@@ -1,2 +1,5 @@
+ContractPack-Tourism 1.0.1
+- Move investor contract into Tourism group.
+
 ContractPack-Tourism 1.0.0
 - Initial release.
