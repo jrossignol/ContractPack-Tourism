@@ -1,5 +1,5 @@
 ContractPack-Tourism 1.0.1
-- Make use of new functionality in Contract Configurator 0.7.4.
+- Fix problem with null station/base contracts showing up.
 - Move investor contract into Tourism group.
 
 ContractPack-Tourism 1.0.0
