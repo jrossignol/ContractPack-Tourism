@@ -1,5 +1,5 @@
 ContractPack-Tourism 1.0.1
-- Fix problem with null station/base contracts showing up.
+- Fix problem with null station/base contracts showing up (thanks Firebird).
 - Move investor contract into Tourism group.
 
 ContractPack-Tourism 1.0.0
