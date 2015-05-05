@@ -1,3 +1,6 @@
+ContractPack-Tourism 1.1.1
+- Fix for sub-orbital contracts (thanks Enceos).
+
 ContractPack-Tourism 1.1.0
 - Disables stock tourism contracts.
 - Added sub-orbital contract.
