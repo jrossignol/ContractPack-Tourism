@@ -1,5 +1,6 @@
 ContractPack-Tourism 1.1.2
 - Moon flyby contracts can now be done as an actual fly by and do not require entering orbit.
+- Change description of some contracts to make the time requirement more clear.
 
 ContractPack-Tourism 1.1.1
 - Fix for sub-orbital contracts (thanks Enceos).
