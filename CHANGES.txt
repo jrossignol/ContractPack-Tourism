@@ -2,6 +2,7 @@ ContractPack-Tourism 1.1.4
 - Spelling/grammer fixes (thanks ObsessedWithKSP).
 - Decrease max tourism contracts from 5 down to 4.
 - Kerbal Space Tourism no longer offers random non-tourism contracts.
+- Increases to contract rewards.
 
 ContractPack-Tourism 1.1.3
 - Fix gas giant moon flyby contract so they are a fly by and not orbit.
