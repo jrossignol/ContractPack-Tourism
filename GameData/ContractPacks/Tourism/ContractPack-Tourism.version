@@ -2,7 +2,7 @@
      "NAME":"Contract Pack: Tourism Plus",
 	 "URL":"https://raw.githubusercontent.com/jrossignol/ContractPack-Tourism/master/GameData/ContractPacks/Tourism/ContractPack-Tourism.version",
 	 "DOWNLOAD":"https://github.com/jrossignol/ContractPack-Tourism/releases",
-     "CHANGE_LOG_URL":"https://raw.githubusercontent.com/jrossignol/ContractPack-Tourism/1.1.4/CHANGES.txt",
+     "CHANGE_LOG_URL":"https://raw.githubusercontent.com/jrossignol/ContractPack-Tourism/1.1.5/CHANGES.txt",
      "GITHUB":{
          "USERNAME":"jrossignol",
          "REPOSITORY":"ContractPack-Tourism",
@@ -11,7 +11,7 @@
      "VERSION":{
          "MAJOR":1,
          "MINOR":1,
-         "PATCH":4,
+         "PATCH":5,
          "BUILD":0
      },
      "KSP_VERSION":{

@@ -1,3 +1,6 @@
+ContractPack-Tourism 1.1.5
+- Fixed investor contract to work in RSS.
+
 ContractPack-Tourism 1.1.4
 - Spelling/grammer fixes (thanks ObsessedWithKSP).
 - Decrease max tourism contracts from 5 down to 4.
