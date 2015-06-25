@@ -1,3 +1,6 @@
+ContractPack-Tourism 1.1.6
+- Convert agent icons to DDS.
+
 ContractPack-Tourism 1.1.5
 - Fixed investor contract to work in RSS.
 
