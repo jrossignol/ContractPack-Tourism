@@ -1,6 +1,7 @@
 ContractPack-Tourism 1.1.6
 - Convert agent icons to DDS.
 - Added support for AntennaRange in building contracts.
+- Allow one-tourist contracts to be generated for low-orbit contracts.
 
 ContractPack-Tourism 1.1.5
 - Fixed investor contract to work in RSS.
