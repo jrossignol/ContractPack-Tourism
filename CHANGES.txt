@@ -3,6 +3,7 @@ ContractPack-Tourism 1.1.6
 - Added support for AntennaRange in building contracts.
 - Allow one-tourist contracts to be generated for low-orbit contracts.
 - Loosen waypoint tolerance for sub-orbital contracts.
+- Made differentiation between investor contracts more clear.
 
 ContractPack-Tourism 1.1.5
 - Fixed investor contract to work in RSS.
