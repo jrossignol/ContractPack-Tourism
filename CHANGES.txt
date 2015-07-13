@@ -1,4 +1,4 @@
-ContractPack-Tourism 1.1.7
+ContractPack-Tourism 1.1.8
 - Fixed badly broken investor tour contract (thanks BT3).
 
 ContractPack-Tourism 1.1.6
