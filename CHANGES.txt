@@ -1,3 +1,6 @@
+ContractPack-Tourism 1.1.7
+- Fixed badly broken investor tour contract (thanks BT3).
+
 ContractPack-Tourism 1.1.6
 - Convert agent icons to DDS.
 - Added support for AntennaRange in building contracts.
