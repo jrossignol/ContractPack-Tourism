@@ -1,8 +1,9 @@
 ContractPack-Tourism 1.3.1
+- Strategia integration.
 - Support edge case for RemoteTech + AntennaRange installations (thanks Algiark).
 - Fixed asteroid contracts to need the tourism starter contract completed.
 - Show messages when entering/leaving waypoints.
-- Strategia integration.
+- Silence warning about deprecated Contract Configurator functionality.
 
 ContractPack-Tourism 1.3.0
 - Changed asteroid contract to check for level 3 tracking station instead of level 2 (thanks qm3ster).
