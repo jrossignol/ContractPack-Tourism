@@ -1,5 +1,6 @@
-ContractPack-Tourism 1.3.1
+ContractPack-Tourism 1.4.0
 - Strategia integration.
+- Investor contract (and therefore casino/hotel contracts) are now repeatable.
 - Support edge case for RemoteTech + AntennaRange installations (thanks Algiark).
 - Fixed asteroid contracts to need the tourism starter contract completed.
 - Show messages when entering/leaving waypoints.
