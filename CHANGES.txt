@@ -1,4 +1,4 @@
-ContractPack-Tourism 1.4.1
+ContractPack-Tourism 1.4.2
 - Fixed issue introduced by Contract Configurator 1.9.8 (thanks smjjames).
 
 ContractPack-Tourism 1.4.0
