@@ -1,5 +1,6 @@
 ContractPack-Tourism 1.5.2
 - Fixed compatibility with Galileo planet pack.
+- Fixed broken backwards compatibility with hotel/casino contracts.
 
 ContractPack-Tourism 1.5.1
 - Added a minAltitude parameter on the sub-orbital flight to make it more clear (thanks Deimos Rast).
